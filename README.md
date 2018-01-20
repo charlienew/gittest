@@ -1,5 +1,5 @@
 Gittest
 ====
-Just a simple tutorial for github.<br>
-Trying to get familiar with github and atom.<br>
+Just a simple tutorial for Github.<br>
+Trying to get familiar with Github and Atom.<br>
 Hopefully I will be able to master it in the future :)
